@@ -9,6 +9,7 @@ This project is currently under active development. The final version of the eng
 * **Primary Language:** All original documentation is authored by me in **Polish**.
 * **English Translations:** English versions of the documentation will be provided; however, they are currently generated with the assistance of **AI tools**. 
 * **Note on Quality:** Initially, these translations may not be thoroughly edited. Polished and fully verified English versions will be available closer to the project completion date or shortly thereafter.
+* **Folders:** Concept and demo level folders are created to store intermediate versions
 
 ### Roadmap & Milestones
 * **By the end of April 2026 (04.2026):**
