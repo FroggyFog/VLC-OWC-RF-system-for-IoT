@@ -13,7 +13,7 @@ This project is currently under active development. The final version of the eng
 * **Scripts Folder:** Dedicated to stable versions; no intermediate versions are stored here. _(Closed access for now)_
 
 ### Roadmap & Milestones
-* **By the end of April 2026 (04.2026):**
+* **By the end of May 2026 (05.2026):**
     * Two major stages of the documentation will be published in Polish:
         1.  **Analysis of existing solutions.**
         2.  **System Architecture:** including the structural foundations of the system, database design, and the general concept.
