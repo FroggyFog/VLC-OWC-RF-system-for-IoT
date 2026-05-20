@@ -1,0 +1,49 @@
+LTspice 26.0.0 for Windows
+Circuit: C:\Users\dakar\Desktop\Work\DYPLOM\VLC-OWC-RF-system-for-IoT\LTSpice\2026_05_20\Odbiornik_WO_TLV3501.net
+Start Time: Wed May 20 15:58:13 2026
+Options:method=gear cshunt=1p vntol=1m abstol=1n reltol=0.01 ptrantau=1u
+solver = Alternate
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = Gear
+abstol = 1e-09
+reltol = 0.01
+volttol = 0.001
+Instance "u1:M12": Length shorter than recommended for a level 1 MOSFET.
+Instance "u1:M14": Length shorter than recommended for a level 1 MOSFET.
+Instance "u3:M12": Length shorter than recommended for a level 1 MOSFET.
+Instance "u3:M14": Length shorter than recommended for a level 1 MOSFET.
+Instance "u4:M12": Length shorter than recommended for a level 1 MOSFET.
+Instance "u4:M14": Length shorter than recommended for a level 1 MOSFET.
+Instance "u5:M12": Length shorter than recommended for a level 1 MOSFET.
+Instance "u5:M14": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping failed to find operating point. Use".option gminsteps=0" to skip all Gmin stepping.
+Starting source stepping with srcstepmethod=0
+Starting source stepping with srcstepmethod=1
+Source stepping failed to find operating point. Use ".options srcsteps=0" to skip all source stepping.
+Starting Gmin stepping level 2
+Gmin stepping level 2 succeeded in finding the operating point.
+
+Changing Tseed to 1e-08
+Changing Tseed to 1e-10
+Changing Tseed to 1e-07
+Changing Tseed to 1e-11
+Changing Tseed to 1e-06
+Changing Tseed to 1e-12
+Changing Tseed to 1e-05
+Changing Tseed to 1e-13
+Changing Tseed to 0.0001
+Changing Tseed to 1e-14
+Changing Tseed to 0.001
+Changing Tseed to 1e-15
+
+Simulation stopped by user.
+Total elapsed time: 39.004 seconds.
+
+Files loaded:
+C:\Users\dakar\Desktop\Work\DYPLOM\VLC-OWC-RF-system-for-IoT\LTSpice\2026_05_20\Odbiornik_WO_TLV3501.net
+C:\Users\dakar\Documents\LTspice\MCP6021.txt
+
