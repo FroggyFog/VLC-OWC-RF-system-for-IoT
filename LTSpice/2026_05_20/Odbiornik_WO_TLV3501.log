@@ -1,6 +1,6 @@
 LTspice 26.0.0 for Windows
 Circuit: C:\Users\dakar\Desktop\Work\DYPLOM\VLC-OWC-RF-system-for-IoT\LTSpice\2026_05_20\Odbiornik_WO_TLV3501.net
-Start Time: Wed May 20 15:58:13 2026
+Start Time: Wed May 20 16:32:12 2026
 Options:method=gear cshunt=1p vntol=1m abstol=1n reltol=0.01 ptrantau=1u
 solver = Alternate
 Maximum thread count: 8
@@ -41,7 +41,7 @@ Changing Tseed to 0.001
 Changing Tseed to 1e-15
 
 Simulation stopped by user.
-Total elapsed time: 39.004 seconds.
+Total elapsed time: 78.569 seconds.
 
 Files loaded:
 C:\Users\dakar\Desktop\Work\DYPLOM\VLC-OWC-RF-system-for-IoT\LTSpice\2026_05_20\Odbiornik_WO_TLV3501.net
